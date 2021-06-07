@@ -76,7 +76,7 @@ export default function Home(){
     <div className="App">
       <header className="App-header">
         <button onClick={handlePresentation}>Presentacion</button>
-          <button onClick={handleImage}>Imagen</button>
+          <button onClick={handleImage}>QR</button>
           <button onClick={handleAdds}>Adds</button>
           <button onClick={handleCloseImages}>Cerrar Todo</button>
           <button onClick={handleCancelPresentation}>Cerrar presentacion</button>
